@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-11-17T08:35:27.584Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>moiley_resume</title>
+    <link href="http://example.com/2023/11/17/moiley-resume/"/>
+    <id>http://example.com/2023/11/17/moiley-resume/</id>
+    <published>2023-11-17T08:35:27.000Z</published>
+    <updated>2023-11-17T08:35:27.584Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Moiley&#39;s resume</title>
+    <link href="http://example.com/2023/11/17/hello-world/"/>
+    <id>http://example.com/2023/11/17/hello-world/</id>
+    <published>2023-11-17T08:10:11.216Z</published>
+    <updated>2023-11-17T08:50:17.345Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to moiley’s webpage, ALOHA from XDU.</p><h2 id="Score-and-Award"><a href="#Score-and-Award" class="headerlink" title="Score and Award"></a>Score and Award</h2><h3 id="Score"><a href="#Score" class="headerlink" title="Score"></a>Score</h3><p>Moiley got full score in Adavanced Maths and C Language Programming.</p><p>More info: <a href="https://github.com/Moiley">moiley’s github</a></p><h3 id="Award"><a href="#Award" class="headerlink" title="Award"></a>Award</h3><p>Moiley won a bronze medal in the “Challenge Cup” Chinese College Student Innovation and Entrepreneurship Competition.</p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to moiley’s webpage, ALOHA from XDU.&lt;/p&gt;
+&lt;h2 id=&quot;Score-and-Award&quot;&gt;&lt;a href=&quot;#Score-and-Award&quot; class=&quot;headerlink&quot; title=&quot;Score and </summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
